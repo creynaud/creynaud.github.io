@@ -29,10 +29,16 @@ img {
 	outline:0;
 	vertical-align:top;
 }
+
+.logo {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
 .logo a{
     font-size: 50px;
     text-transform: uppercase;
-    line-height: 92px;
+    line-height: 1.1em;
     font-weight: 400;
 }
 .logo img {max-width:100%;
