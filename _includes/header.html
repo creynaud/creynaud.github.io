@@ -1,16 +1,70 @@
-<div class="container">
-    <header class="site-header">
-        <nav>
-            <ul class="nav nav-pills pull-right">
-                <li><a href="/">Home</a></li>
-                {% for page in site.pages %}
-                {% if page.title %}
-                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-            <h1><a href="/">Claire Reynaud</a></h1>
-            <h2>Crafting iOS apps</h2>
-        </nav>
-    </header>
+<div class="header">
+    <div class="wrap">
+        <div class="navbar navbar_ clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="span5">
+                        <div class="logo"><h1><a href="/">Claire Reynaud</a></h1></div>
+                        <div class="tagline"><h2>Crafting Mobile Apps</h2></div>
+                    </div>
+                    <div class="span7">
+                        <div class="follow_us">
+                            <ul>
+
+                                <li>
+                                    <a data-original-title="" target="_blank" href="https://twitter.com/clairereynaud"
+                                       class="twitter">Twitter</a>
+                                </li>
+
+
+                            </ul>
+                        </div>
+                        <div class="clear"></div>
+                        <nav id="main_menu">
+                            <div class="menu_wrap">
+
+                                <ul class="nav sf-menu sf-js-enabled">
+
+                                    <li class=" current" id="dropdown-menu--"><a href="/">
+                                        Home
+                                    </a></li>
+                                    <li class="" id="dropdown-menu-resume"><a href="/resume/">
+                                        Resume
+                                    </a></li>
+                                    <li class="" id="dropdown-menu--blog"><a href="/blog">
+                                        Blog
+                                    </a></li>
+                                    <li class="" id="dropdown-menu-talks"><a href="/talks/">
+                                        Talks
+                                    </a></li>
+                                    <li class="" id="dropdown-menu-mailto:info@clairereynaud.net"><a
+                                            href="mailto:info@clairereynaud.net">
+                                        Contact
+                                    </a></li>
+                                </ul>
+
+                                <select>
+                                    <option value="" selected="selected">Please choose page</option>
+                                    <option value="/">
+                                        Home
+                                    </option>
+                                    <option value="/resume/">
+                                        Resume
+                                    </option>
+                                    <option value="/blog">
+                                        Blog
+                                    </option>
+                                    <option value="/talks/">
+                                        Talks
+                                    </option>
+                                    <option value="mailto:info@clairereynaud.net">
+                                        Contact
+                                    </option>
+                                </select></div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
