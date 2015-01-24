@@ -1,0 +1,16 @@
+<div class="container">
+    <header class="site-header">
+        <nav>
+            <ul class="nav nav-pills pull-right">
+                <li><a href="/">Home</a></li>
+                {% for page in site.pages %}
+                {% if page.title %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+            <h1><a href="/">Claire Reynaud</a></h1>
+            <h2>Crafting iOS apps</h2>
+        </nav>
+    </header>
+</div>
