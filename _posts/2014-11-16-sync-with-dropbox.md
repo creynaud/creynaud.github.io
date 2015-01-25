@@ -16,6 +16,7 @@ permalink: /blog/syncing-data-across-multiple-devices-and-offline-support-with-d
 
 Recently, I have been looking for a data synchronization service to integrate in my time tracking iPhone app.
 
+{: .center-image}
 ![My BusyBox time tracking app](/images/screenshot1-4inches-en.jpg)
 
 I am making apps as a freelance, so I am using my BusyBox app to track how much time I spend on each of my customer's projects. I also use it to improve behaviors: tracking how much time I spend on social media, how much time I stand at my desk, or how many pomodoros I do each day.
@@ -59,6 +60,7 @@ I ended up choosing [Dropbox Datastore][dropbox], because it had all the advanta
 * Almost everyone has a Dropbox account nowadays. It is a no-brainer for my app users to choose to sync their time tracking data to Dropbox. They know the service, they already have an account, and they trust it. This is not the case for Parse.
 * [Dropbox Datastore][dropbox] provides a version of their store on the device that works even if the user is not logged into Dropbox. This is great for user onboarding. I hate it when I download an app, and I cannot give it a try without having to log in. With Dropbox Datastore, you can try the app right away. Later, if you like it, you can turn on synchronization by linking to your Dropbox account. I really like the Dropbox login screen that comes out of the box: "The app BusyBox would like to connect with your Dropbox. This app will read and write its own datastores but none of your files". It explains in 2 sentences what the app will be allowed to do, and especially that it won't be able to sneak in your files.
 
+{: .center-image}
 ![My BusyBox time tracking app](/images/screenshot3-4inches-en.jpg)
 
 ## Integrating Dropbox Datastore
