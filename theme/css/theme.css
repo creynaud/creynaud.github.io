@@ -104,10 +104,11 @@ img {
   zoom: 1;
 }
 .menu_wrap .nav > li {
-  padding: 0 0 0 25px;
+  padding: 0 21px 0 0;
   display:inline-block;
 }
-.menu_wrap .nav > li:first-child {
+.menu_wrap .nav > li:last-child {
+  padding: 0 0 0 0;
 }
 #main_menu select {
 	display: none;
@@ -526,7 +527,7 @@ ul.tweets li {
 	display:block;
 }
 #footer li {
-	padding:0 0 15px 0;
+	padding:0 0 21px 0;
 	margin-bottom:15px;
 	border-bottom:1px #eaeaea solid;
 	line-height:16px;
