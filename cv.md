@@ -1,6 +1,6 @@
 ---
 layout: default-with-breadcrumb
-title: Resume
+title: CV
 permalink: /cv/
 lang: fr
 ---
