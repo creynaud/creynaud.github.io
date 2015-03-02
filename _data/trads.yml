@@ -1,4 +1,8 @@
 en:
+  description: > # this means to ignore newlines until "home:"
+    Hi, my name is Claire. I have 4 iPhone apps on the App Store.
+    I also work as a consultant for other businesses.
+    I craft apps that take advantage of the cloud.
   home: "Home"
   resume: "Resume"
   blog: "Blog"
@@ -19,6 +23,10 @@ en:
   homeurl: "/"
   resumeurl: "/resume"
 fr:
+  description: > # this means to ignore newlines until "home:"
+    Bonjour, je m&#39;appelle Claire. J&#39;ai 4 applications sur l&#39;App Store.
+    Je suis développeuse, spécialisée dans la création d&#39;applications iOS.
+    Je travaille depuis Saint Etienne ou Lyon.
   home: "Accueil"
   resume: "Cv"
   blog: "Blog"
