@@ -12,3 +12,15 @@ github_username:  creynaud
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+  -
+    scope:
+      path: fr
+    values:
+      lang: fr

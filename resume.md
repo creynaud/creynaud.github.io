@@ -8,7 +8,7 @@ Hi, my name is Claire. I develop iPhone and iPad apps as a freelance. I craft ap
 
 ## Experience
 
-### 2013-now, iOS and Django freelance developer at Claire Reynaud EIRL
+### 2014-now, iOS and Django freelance developer at Claire Reynaud EIRL
 
 I am a freelance applications developer. I craft mobile apps for iOS. I have 4 apps that are published on the App Store: [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes]. My Willio app, that lets you split bills between friends, has been number 1 top paid app in the Finance category in France during a good part of the summer 2014. My apps got 100K downloads this year.
 
@@ -24,7 +24,7 @@ I was doing mainly Django and web development during my second year at Epyx, but
 
 During my first year at Epyx, I did mainly iOS development, but I also contributed to the Android app code base. I investigated unit testing solutions to put in place some tests with mocks and code coverage for both Android and iOS platforms. I also worked on putting in place some UI tests, with the Calabash framework. I set up a Jenkins continuous integration server. Still on the mobile side, I implemented the Epyx synchronization library that enables an Android or iOS application to replicate JSON documents from the server to a mobile application. Documents can be updated offline.
 
-Here are the apps I contributed to when I was working at Epyx: [https://play.google.com/store/apps/developer?id=epyx%20SA&amp;hl=en][4]
+Here are the apps I contributed to when I was working at Epyx: [https://itunes.apple.com/ch/artist/epyx/id467805432][4]
 
 ### 2009-2011, Mobile Virtualization Platform engineer at VMware
 
@@ -86,12 +86,12 @@ English: fluent
 
 Music: electric guitar
 
-Sport: hiking, ski, [via ferrata][9], rock climbing
+Sport: [via ferrata][9], hiking, ski, rock climbing
 
 [itunes]: https://itunes.apple.com/us/artist/claire-reynaud/id799355423
 [2]: http://www.createchallenge.org/ "International Create Challenge"
 [3]: http://epyx.ch/en/ "Epyx"
-[4]: https://play.google.com/store/apps/developer?id=epyx%20SA&amp;hl=en "https://play.google.com/store/apps/developer?id=epyx%20SA&amp;hl=en"
+[4]: https://itunes.apple.com/ch/artist/epyx/id467805432 "https://itunes.apple.com/ch/artist/epyx/id467805432"
 [5]: http://www.vmware.com/ "VMware"
 [6]: http://www.kelkoo.fr/ "Kelkoo"
 [7]: http://www.yahoo.com/ "Yahoo"
