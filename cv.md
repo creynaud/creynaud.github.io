@@ -5,7 +5,7 @@ permalink: /cv/
 lang: fr
 ---
 
-J'ai 4 applications sur l'App Store. Je suis développeuse, spécialisée dans la création d'applications iOS. Je crée des applications qui tirent profit du cloud.
+Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications sur l'App Store. Je crée des applications qui tirent profit du cloud.
 
 ## Experience
 
