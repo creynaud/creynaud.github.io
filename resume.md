@@ -12,9 +12,12 @@ Hi, my name is Claire. I develop iPhone and iPad apps as a freelance. I craft ap
 
 I am a freelance applications developer. I craft mobile apps for iOS. I have 4 apps that are published on the App Store: [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes]. My Willio app, that lets you split bills between friends, has been number 1 top paid app in the Finance category in France during a good part of the summer 2014. My apps got 100K downloads this year.
 
-I also do a little bit of web development with the Django web framework, but I mainly do back-end and REST services development (still with Django). I run these services on Heroku, a Platform As A Service provider.
+I also created some apps for my customers :
 
-I have also been working on an online translation service called BabelBytes. On BabelBytes, iPhone app developers can get their app translated to other languages. The BabelBytes team was selected to participate to the final phase of the [International Create Challenge 2013][2] in Switzerland. The International Create Challenge is a 3-week immersive accelerator program that gives entrepreneurs the opportunity to drive their projects to a Minimum Viable Product.
+- Gotta Joga : [https://itunes.apple.com/us/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
+- Nixdo : [https://itunes.apple.com/us/app/nixdo/id950679606][nixdo]
+
+I also do a little bit of web development with the Django web framework, but I mainly do back-end and REST services development (still with Django). I run these services on Heroku, a Platform As A Service provider.
 
 ### 2011-2013, Mobile and Django software engineer at Epyx
 
@@ -88,6 +91,8 @@ Music: electric guitar
 
 Sport: [via ferrata][9], hiking, ski, rock climbing
 
+[gottajoga]: https://itunes.apple.com/us/app/gotta-joga-yoga-poses-practices/id880583924 
+[nixdo]: https://itunes.apple.com/us/app/nixdo/id950679606
 [itunes]: https://itunes.apple.com/us/artist/claire-reynaud/id799355423
 [2]: http://www.createchallenge.org/ "International Create Challenge"
 [3]: http://epyx.ch/en/ "Epyx"

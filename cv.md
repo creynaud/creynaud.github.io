@@ -11,7 +11,14 @@ Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 
 
 ### 2014-aujourd'hui, création d'applications pour iPhone et iPad - Claire Reynaud EIRL
 
-Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications publiées sur l'App Store: [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes]. Mon application Willio, qui permet de partager les frais entre amis pendant les vacances, a été régulièrement classée numéro 1 des applications payantes de la catégorie Finance en France en juillet et août 2014. Mes applications ont totalisé 100000 téléchargements cette année.
+Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications publiées sur l'App Store: [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes].
+
+Mon application Willio, qui permet de partager les frais entre amis pendant les vacances, a été régulièrement classée numéro 1 des applications payantes de la catégorie Finance en France en juillet et août 2014. Mes applications ont totalisé 100000 téléchargements cette année.
+
+J'ai également réalisé des applications pour mes clients :
+
+- Gotta Joga : [https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
+- Nixdo : [https://itunes.apple.com/fr/app/nixdo/id950679606][nixdo]
 
 Je suis experte dans la création d'applications iOS. Je crée des applications sur mesure pour votre entreprise ou pour publier sur l'App Store. Par ailleurs, grâce à plus de 10 ans d'expérience dans différent domaines du développement, je peux appréhender un projet dans sa globalité, aussi bien d'un point de vue technique que business.
 
@@ -89,6 +96,8 @@ Musique : guitare éléctrique
 
 Sport : [via ferrata][9], randonnée, ski, escalade
 
+[gottajoga]: https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924
+[nixdo]: https://itunes.apple.com/fr/app/nixdo/id950679606
 [itunes]: https://itunes.apple.com/fr/artist/claire-reynaud/id799355423
 [2]: http://www.createchallenge.org/ "International Create Challenge"
 [3]: http://epyx.ch/en/ "Epyx"
