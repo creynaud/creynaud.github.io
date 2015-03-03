@@ -22,6 +22,8 @@ en:
   lastposts: "Recent Posts"
   homeurl: "/"
   resumeurl: "/resume"
+  portfolio: "Portfolio"
+  portfoliourl: "/portfolio"
 fr:
   description: > # this means to ignore newlines until "home:"
     Bonjour, je m&#39;appelle Claire. J&#39;ai 4 applications sur l&#39;App Store.
@@ -46,3 +48,5 @@ fr:
   lastposts: "Derniers Posts"
   homeurl: "/fr"
   resumeurl: "/cv"
+  portfolio: "Portfolio"
+  portfoliourl: "/portfolio"
