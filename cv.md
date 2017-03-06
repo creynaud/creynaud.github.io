@@ -5,22 +5,34 @@ permalink: /cv/
 lang: fr
 ---
 
-Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications sur l'App Store. Je crée des applications qui tirent profit du cloud.
+Je suis développeuse, spécialisée dans le développement d'applications iOS. J'ai 4 applications publiées en mon nom sur l'App Store. J'ai participé au développement d'une quinzaine d'apps disponibles sur l'App Store.
+Je crée des applications qui tirent profit du cloud.
 
 ## Experience
 
-### 2014-aujourd'hui, création d'applications pour iPhone et iPad - Claire Reynaud EIRL
+### 2014-aujourd'hui, développeuse iOS, création d'applications pour iPhone, iPad et Apple Watch - Claire Reynaud EIRL
 
-Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications publiées sur l'App Store: [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes].
-
-Mon application Willio, qui permet de partager les frais entre amis pendant les vacances, a été régulièrement classée numéro 1 des applications payantes de la catégorie Finance en France en juillet et août 2014. Mes applications ont totalisé 100000 téléchargements cette année.
+Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications publiées sur l'App Store : [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes]. Ces applications totalisent 350 000 téléchargements.
 
 J'ai également réalisé des applications pour mes clients :
 
 - Gotta Joga : [https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
 - Nixdo : [https://itunes.apple.com/fr/app/nixdo/id950679606][nixdo]
+- CityLity : [https://itunes.apple.com/fr/app/citylity/id976375724][citylity]
+- Avant-Goût Studios/1DLab : plugin cordova de streaming audio [http://www.avant-gout.com/][avantgout]
 
 Je suis experte dans la création d'applications iOS. Je crée des applications sur mesure pour votre entreprise ou pour publier sur l'App Store. Par ailleurs, grâce à plus de 10 ans d'expérience dans différent domaines du développement, je peux appréhender un projet dans sa globalité, aussi bien d'un point de vue technique que business.
+
+### 2016-aujourd'hui, associée technique chez Gotta Apps
+
+Je suis l'associée technique de Gotta Apps, societé qui développe les applications de yoga :
+- Gotta Joga : [https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
+- Gotta Joga Prenatal : [https://itunes.apple.com/fr/app/gotta-joga-prenatal-yoga-during-pregnancy/id1089875636][prenatal]
+
+Gotta Joga a été sélectionnée par Apple pour être mise en avant à la une de l'App Store France en septembre et octobre 2016. Elle est également régulièrement mise en avant dans d'autres pays.
+
+
+Gotta Joga est disponible sur l'Apple Watch.
 
 ### 2011-2013, Développeuse Mobile et Django chez Epyx
 
@@ -56,21 +68,21 @@ J'ai travaillé sur le projet Cars chez [Kelkoo][6], à l'époque une societé [
 
 ## Compétences
 
+### Mobile
+
+iOS - watchOS
+
 ### Web &amp; Services
 
-Django - REST Services - OAuth2 - Spring MVC - HTML - CSS
+Django - REST Services - OAuth2
 
 ### Persistence de données
 
-Django ORM - South - JPA/Hibernate - Relational databases (Postgresql) - Couchdb (noSQL database)
-
-### Mobile
-
-Android - iOS
+Relational databases (Postgresql) - Couchdb (noSQL database)
 
 ### Cloud
 
-Heroku - Sentry - Loggly - Amazon S3/Cloudfront
+Firebase - Heroku - Amazon S3/Cloudfront/Lambda
 
 ### Tests
 
@@ -78,7 +90,7 @@ Python Webtests - JUnit/JMock - OCUnit/OCMock - Selenium - Coverage - Continuous
 
 ### Outils
 
-Git − maven/ant − IntelliJ - Pycharm - XCode/AppCode − Linux (Ubuntu)/Mac OS X
+Git - XCode/AppCode- Pycharm − IntelliJ − macOS/Linux (Ubuntu)
 
 ### Methodologies Agile
 
@@ -92,13 +104,14 @@ Anglais : courant
 
 ## Centres d'intérêts
 
-Musique : guitare éléctrique
-
-Sport : [via ferrata][9], randonnée, ski, escalade
+Sport : via ferrata, randonnée, yoga, escalade
 
 [gottajoga]: https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924
+[prenatal]: https://itunes.apple.com/fr/app/gotta-joga-prenatal-yoga-during-pregnancy/id1089875636
 [nixdo]: https://itunes.apple.com/fr/app/nixdo/id950679606
 [itunes]: https://itunes.apple.com/fr/artist/claire-reynaud/id799355423
+[citylity]: https://itunes.apple.com/fr/app/citylity/id976375724
+[avantgout]: http://www.avant-gout.com/
 [2]: http://www.createchallenge.org/ "International Create Challenge"
 [3]: http://epyx.ch/en/ "Epyx"
 [4]: https://itunes.apple.com/ch/artist/epyx/id467805432 "https://itunes.apple.com/ch/artist/epyx/id467805432"
@@ -106,4 +119,3 @@ Sport : [via ferrata][9], randonnée, ski, escalade
 [6]: http://www.kelkoo.fr/ "Kelkoo"
 [7]: http://www.yahoo.com/ "Yahoo"
 [8]: http://ensimag.grenoble-inp.fr/ "ENSIMAG"
-[9]: http://viaferrata-montagne.blogspot.fr/ "Via Ferrata"
