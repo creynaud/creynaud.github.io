@@ -7,7 +7,7 @@ lang: fr
 
 Je suis développeuse freelance, spécialisée dans la création d'applications mobiles pour iPhone et iPad (iOS). J'ai également développé sur Apple Watch. Je développe dans le language Swift, mais aussi en Objective-C selon les besoins.
 
-Je suis également l'associée technique de Gotta Apps, qui développe l'application de yoga Gotta Joga. Gotta Joga a été sélectionnée plusieurs fois par Apple pour être mise en avant à la une de l'App Store.
+Je suis par ailleurs l'associée technique de Gotta Apps, une societé qui développe l'application de yoga Gotta Joga. Gotta Joga a été sélectionnée plusieurs fois par Apple pour être mise en avant à la une de l'App Store.
 
 Les applications sur lesquelles j'ai travaillé totalisent 1 000 000 de téléchargements, et ont une note moyenne de 4,5/5 sur l'App Store.
 
@@ -16,6 +16,7 @@ Je peux vous accompagner sur toutes les étapes d'un projet de développement d'
 - Développement
 - Publication
 - Évolutions et maintenance
+
 Je peux également travailler en régie pour renforcer vos équipes.
 
 N'hésitez pas à me contacter si vous avez un projet d'application mobile.
