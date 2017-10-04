@@ -5,7 +5,7 @@ permalink: /cv/
 lang: fr
 ---
 
-Je suis spécialisée dans le développement d'applications mobiles pour iPhone et iPad (iOS). J'ai également développé sur Apple Watch. Je développe dans le language Swift, mais aussi en Objective-C selon les besoins.
+Je suis développeuse freelance, spécialisée dans la création d'applications mobiles pour iPhone et iPad (iOS). J'ai également développé sur Apple Watch. Je développe dans le language Swift, mais aussi en Objective-C selon les besoins.
 
 Je suis également l'associée technique de Gotta Apps, qui développe l'application de yoga Gotta Joga. Gotta Joga a été sélectionnée plusieurs fois par Apple pour être mise en avant à la une de l'App Store.
 
