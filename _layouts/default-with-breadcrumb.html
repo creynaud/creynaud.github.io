@@ -15,34 +15,6 @@ layout: default
 </div>
 <div class="wrap">
     <div class="container">
-        <div class="row">
-            <div class="span8">
-                {{ content }}
-            </div>
-            <div class="span4">
-                <div class="sidebar">
-                    <div class="widget"><h2 class="title"><span>{{ site.data.trads[page.lang].myapps}}</span></h2>
-                        <a href="https://itunes.apple.com/us/artist/claire-reynaud/id799355423?at=11lGi9">
-                            <img src="/images/download-app-store-button.png">
-                        </a>
-                    </div>
-                    <div class="widget"><h2 class="title"><span>{{ site.data.trads[page.lang].lastposts}}</span></h2>
-                        <ul class="recent_post">
-                            {% for post in site.posts %}
-                            <li>
-                                <div>
-                                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-                                {{ post.date | date: "%b %-d, %Y" }}
-                                <div class="clearfix"></div>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                    <div class="widget"><h2 class="title"><span>Feeds</span></h2>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {{ content }}
     </div>
 </div>
