@@ -47,7 +47,7 @@ Gotta Joga est régulièrement sélectionnée par Apple pour être mise en avant
 
 Gotta Joga est également disponible sur Apple Watch.
 
-Maija Airas Ceri et moi même sommes speakers cette année à la conférence App Days, où nous présenterons notre retour d'expérience : [https://2017.appdays.fr/fr/speakers/][appdays]
+Maija Airas-Ceri, la fondatrice de Gotta Apps, et moi même, sommes speakers cette année à la conférence App Days, où nous présenterons notre retour d'expérience : [https://2017.appdays.fr/fr/speakers/][appdays]
 
 ### 2011-2013, Développeuse Mobile et Django chez Epyx
 
