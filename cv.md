@@ -122,10 +122,10 @@ Anglais : courant
 Sport : via ferrata, randonnée, yoga, escalade
 
 [gottajoga]: https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924
-[ZippyPass][https://itunes.apple.com/au/app/zippypass-acc%C3%A9dez-%C3%A0-200-clubs-studios-%C3%A0-paris/id1250089436?mt=8]
+[ZippyPass]: https://itunes.apple.com/au/app/zippypass-acc%C3%A9dez-%C3%A0-200-clubs-studios-%C3%A0-paris/id1250089436?mt=8
 [prenatal]: https://itunes.apple.com/fr/app/gotta-joga-prenatal-yoga-during-pregnancy/id1089875636
-[BrandBirds][https://itunes.apple.com/fr/app/brandbirds-connectez-vous-%C3%A0-vos-marques-pr%C3%A9f%C3%A9r%C3%A9es/id1146768613?mt=8]
-[BrandBirdsBiz]https://itunes.apple.com/fr/app/brandbirdsbiz/id1219273072?mt=8]
+[BrandBirds]: https://itunes.apple.com/fr/app/brandbirds-connectez-vous-%C3%A0-vos-marques-pr%C3%A9f%C3%A9r%C3%A9es/id1146768613?mt=8
+[BrandBirdsBiz]: https://itunes.apple.com/fr/app/brandbirdsbiz/id1219273072?mt=8
 [nixdo]: https://itunes.apple.com/fr/app/nixdo/id950679606
 [itunes]: https://itunes.apple.com/fr/artist/claire-reynaud/id799355423
 [citylity]: https://itunes.apple.com/fr/app/citylity/id976375724
