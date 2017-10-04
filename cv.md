@@ -27,8 +27,8 @@ N'hésitez pas à me contacter si vous avez un projet d'application mobile.
 Je suis développeuse, spécialisée dans la création d'applications iOS. Les applications sur lesquelles j'ai travaillé totalisent 1 000 000 de téléchargements, et ont une note moyenne de 4,5 étoiles sur l'App Store.
 
 - Gotta Joga : [https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
-- ZippyPass : [https://itunes.apple.com/au/app/zippypass-acc%C3%A9dez-%C3%A0-200-clubs-studios-%C3%A0-paris/id1250089436?mt=8][ZippyPass]
-- Côté Clients (évolution et maintenance) : [https://itunes.apple.com/fr/app/brandbirds-connectez-vous-%C3%A0-vos-marques-pr%C3%A9f%C3%A9r%C3%A9es/id1146768613?mt=8][BrandBirds] et [https://itunes.apple.com/fr/app/brandbirdsbiz/id1219273072?mt=8][BrandBirdsBiz]
+- ZippyPass : [https://itunes.apple.com/fr/app/id1250089436?mt=8][ZippyPass]
+- Côté Clients (évolution et maintenance) : [https://itunes.apple.com/fr/app/id1146768613?mt=8][BrandBirds] et [https://itunes.apple.com/fr/app/brandbirdsbiz/id1219273072?mt=8][BrandBirdsBiz]
 - Nixdo : [https://itunes.apple.com/fr/app/nixdo/id950679606][nixdo]
 - CityLity : [https://itunes.apple.com/fr/app/citylity/id976375724][citylity]
 - Avant-Goût Studios/1DLab : plugin cordova de streaming audio [http://www.avant-gout.com/][avantgout]
@@ -47,7 +47,7 @@ Gotta Joga est régulièrement sélectionnée par Apple pour être mise en avant
 
 Gotta Joga est également disponible sur Apple Watch.
 
-Maija Airas Ceri et moi même sommes speakers cette année à la conférence App Days, où nous présenterons notre retour d'expérience : https://2017.appdays.fr/fr/speakers/
+Maija Airas Ceri et moi même sommes speakers cette année à la conférence App Days, où nous présenterons notre retour d'expérience : [https://2017.appdays.fr/fr/speakers/][appdays]
 
 ### 2011-2013, Développeuse Mobile et Django chez Epyx
 
@@ -130,6 +130,7 @@ Sport : via ferrata, randonnée, yoga, escalade
 [itunes]: https://itunes.apple.com/fr/artist/claire-reynaud/id799355423
 [citylity]: https://itunes.apple.com/fr/app/citylity/id976375724
 [avantgout]: http://www.avant-gout.com/
+[appdays]: https://2017.appdays.fr/fr/speakers/
 [2]: http://www.createchallenge.org/ "International Create Challenge"
 [3]: http://epyx.ch/en/ "Epyx"
 [4]: https://itunes.apple.com/ch/artist/epyx/id467805432 "https://itunes.apple.com/ch/artist/epyx/id467805432"
