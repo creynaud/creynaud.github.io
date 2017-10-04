@@ -5,21 +5,35 @@ permalink: /cv/
 lang: fr
 ---
 
-Je suis développeuse, spécialisée dans le développement d'applications iOS. J'ai 4 applications publiées en mon nom sur l'App Store. J'ai participé au développement d'une quinzaine d'apps disponibles sur l'App Store.
-Je crée des applications qui tirent profit du cloud.
+Je suis spécialisée dans le développement d'applications mobiles pour iPhone et iPad (iOS). J'ai également développé sur Apple Watch. Je développe dans le language Swift, mais aussi en Objective-C selon les besoins.
+
+Je suis également l'associée technique de Gotta Apps, qui développe l'application de yoga Gotta Joga. Gotta Joga a été sélectionnée plusieurs fois par Apple pour être mise en avant à la une de l'App Store.
+
+Les applications sur lesquelles j'ai travaillé totalisent 1 000 000 de téléchargements, et ont une note moyenne de 4,5/5 sur l'App Store.
+
+Je peux vous accompagner sur toutes les étapes d'un projet de développement d'application iOS :
+- Définition du besoin
+- Développement
+- Publication
+- Évolutions et maintenance
+Je peux également travailler en régie pour renforcer vos équipes.
+
+N'hésitez pas à me contacter si vous avez un projet d'application mobile.
 
 ## Experience
 
 ### 2014-aujourd'hui, développeuse iOS, création d'applications pour iPhone, iPad et Apple Watch - Claire Reynaud EIRL
 
-Je suis développeuse, spécialisée dans la création d'applications iOS. J'ai 4 applications publiées sur l'App Store : [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes]. Ces applications totalisent 350 000 téléchargements.
-
-J'ai également réalisé des applications pour mes clients :
+Je suis développeuse, spécialisée dans la création d'applications iOS. Les applications sur lesquelles j'ai travaillé totalisent 1 000 000 de téléchargements, et ont une note moyenne de 4,5 étoiles sur l'App Store.
 
 - Gotta Joga : [https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
+- ZippyPass : [https://itunes.apple.com/au/app/zippypass-acc%C3%A9dez-%C3%A0-200-clubs-studios-%C3%A0-paris/id1250089436?mt=8][ZippyPass]
+- Côté Clients (évolution et maintenance) : [https://itunes.apple.com/fr/app/brandbirds-connectez-vous-%C3%A0-vos-marques-pr%C3%A9f%C3%A9r%C3%A9es/id1146768613?mt=8][BrandBirds] et [https://itunes.apple.com/fr/app/brandbirdsbiz/id1219273072?mt=8][BrandBirdsBiz]
 - Nixdo : [https://itunes.apple.com/fr/app/nixdo/id950679606][nixdo]
 - CityLity : [https://itunes.apple.com/fr/app/citylity/id976375724][citylity]
 - Avant-Goût Studios/1DLab : plugin cordova de streaming audio [http://www.avant-gout.com/][avantgout]
+
+J'ai également 4 applications publiées en mon nom sur l'App Store : [https://itunes.apple.com/us/artist/claire-reynaud/id799355423][itunes].
 
 Je suis experte dans la création d'applications iOS. Je crée des applications sur mesure pour votre entreprise ou pour publier sur l'App Store. Par ailleurs, grâce à plus de 10 ans d'expérience dans différent domaines du développement, je peux appréhender un projet dans sa globalité, aussi bien d'un point de vue technique que business.
 
@@ -29,10 +43,9 @@ Je suis l'associée technique de Gotta Apps, societé qui développe les applica
 - Gotta Joga : [https://itunes.apple.com/fr/app/gotta-joga-yoga-poses-practices/id880583924][gottajoga]
 - Gotta Joga Prenatal : [https://itunes.apple.com/fr/app/gotta-joga-prenatal-yoga-during-pregnancy/id1089875636][prenatal]
 
-Gotta Joga a été sélectionnée par Apple pour être mise en avant à la une de l'App Store France en septembre et octobre 2016. Elle est également régulièrement mise en avant dans d'autres pays.
+Gotta Joga est régulièrement sélectionnée par Apple pour être mise en avant à la une de l'App Store France, ainsi que dans d'autres pays.
 
-
-Gotta Joga est disponible sur l'Apple Watch.
+Gotta Joga est également disponible sur Apple Watch.
 
 ### 2011-2013, Développeuse Mobile et Django chez Epyx
 
